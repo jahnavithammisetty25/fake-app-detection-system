@@ -1,0 +1,30 @@
+{
+  "PhonePe": {
+    "name": "PhonePe UPI, Payment, Recharge",
+    "package": "com.phonepe.app",
+    "developer": "PhonePe Pvt. Ltd.",
+    "developer_email": "support@phonepe.com",
+    "icon": "phonepe.png"
+  },
+  "Paytm": {
+    "name": "Paytm - UPI Payments & Recharges",
+    "package": "net.one97.paytm",
+    "developer": "Paytm",
+    "developer_email": "care@paytm.com",
+    "icon": "paytm.png"
+  },
+  "GooglePay": {
+    "name": "Google Pay: Secure UPI Payment",
+    "package": "com.google.android.apps.nbu.paisa.user",
+    "developer": "Google LLC",
+    "developer_email": "apps-help@google.com",
+    "icon": "gpay.png"
+  },
+  "BHIM": {
+    "name": "BHIM - Making India Cashless",
+    "package": "in.org.npci.upiapp",
+    "developer": "National Payments Corporation of India (NPCI)",
+    "developer_email": "contact@npci.org.in",
+    "icon": "bhim.png"
+  }
+}

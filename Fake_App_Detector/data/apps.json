@@ -1,0 +1,167 @@
+[
+  {
+    "name": "PhonePe Update 2024",
+    "package": "com.phonepe.update2024",
+    "developer": "AB Tech Innovations",
+    "developer_email": "support.abtech@gmail.com",
+    "icon": "phonepe_update.png",
+    "brand": "PhonePe",
+    "label": "fake"
+  },
+  {
+    "name": "Phone Pe UPI Secure",
+    "package": "com.phonepe.secure.upi",
+    "developer": "SecurePay India",
+    "developer_email": "securepay.india@gmail.com",
+    "icon": "phonepe_secure.png",
+    "brand": "PhonePe",
+    "label": "fake"
+  },
+  {
+    "name": "PhonePe Cashback Offer",
+    "package": "com.phonepe.cashback.offer",
+    "developer": "OfferZone Apps",
+    "developer_email": "offerzone.help@gmail.com",
+    "icon": "phonepe_cashback.png",
+    "brand": "PhonePe",
+    "label": "fake"
+  },
+  {
+    "name": "Paytm Cashback Bazaar",
+    "package": "com.paytm.cashbazaar",
+    "developer": "Digital India Apps",
+    "developer_email": "indiaapps@gmail.com",
+    "icon": "paytm_cashback.png",
+    "brand": "Paytm",
+    "label": "fake"
+  },
+  {
+    "name": "Paytm UPI QuickPay",
+    "package": "com.paytm.quickpay.upi",
+    "developer": "QuickUPI Ltd",
+    "developer_email": "quickupi@outlook.com",
+    "icon": "paytm_quickpay.png",
+    "brand": "Paytm",
+    "label": "fake"
+  },
+  {
+    "name": "Paytm Rewards 2024",
+    "package": "com.paytm.rewards2024",
+    "developer": "FutureSoft Labs",
+    "developer_email": "futuresoftlabs@gmail.com",
+    "icon": "paytm_rewards.png",
+    "brand": "Paytm",
+    "label": "fake"
+  },
+  {
+    "name": "GPay UPI 2024",
+    "package": "com.gpay.upi2024",
+    "developer": "QuickUPI Ltd",
+    "developer_email": "care.quickupi@outlook.com",
+    "icon": "gpay_2024.png",
+    "brand": "GooglePay",
+    "label": "fake"
+  },
+  {
+    "name": "Google Pay Lite",
+    "package": "com.google.paylite",
+    "developer": "LitePay Solutions",
+    "developer_email": "litepay@gmail.com",
+    "icon": "gpay_lite.png",
+    "brand": "GooglePay",
+    "label": "fake"
+  },
+  {
+    "name": "GPay QuickCash",
+    "package": "com.gpay.quickcash",
+    "developer": "CashWorld Apps",
+    "developer_email": "cashworld.apps@gmail.com",
+    "icon": "gpay_quickcash.png",
+    "brand": "GooglePay",
+    "label": "fake"
+  },
+  {
+    "name": "BHIM Secure India",
+    "package": "com.bhim.secureindia",
+    "developer": "Secure Pay LLP",
+    "developer_email": "help.securepay@gmail.com",
+    "icon": "bhim_secure.png",
+    "brand": "BHIM",
+    "label": "fake"
+  },
+  {
+    "name": "BHIM UPI New",
+    "package": "com.bhim.upi.new",
+    "developer": "IndiaAppWorld",
+    "developer_email": "indiaappworld@gmail.com",
+    "icon": "bhim_new.png",
+    "brand": "BHIM",
+    "label": "fake"
+  },
+  {
+    "name": "BHIM 2024 Update",
+    "package": "com.bhim.update2024",
+    "developer": "TechUPI Apps",
+    "developer_email": "techupi@gmail.com",
+    "icon": "bhim_update.png",
+    "brand": "BHIM",
+    "label": "fake"
+  },
+
+  
+
+  {
+    "name": "PhonePe UPI, Payment, Recharge",
+    "package": "com.phonepe.app",
+    "developer": "PhonePe Pvt. Ltd.",
+    "developer_email": "support@phonepe.com",
+    "icon": "phonepe.png",
+    "brand": "PhonePe",
+    "label": "genuine"
+  },
+  {
+    "name": "Paytm - UPI Payments & Recharges",
+    "package": "net.one97.paytm",
+    "developer": "Paytm",
+    "developer_email": "care@paytm.com",
+    "icon": "paytm.png",
+    "brand": "Paytm",
+    "label": "genuine"
+  },
+  {
+    "name": "Google Pay: Secure UPI Payment",
+    "package": "com.google.android.apps.nbu.paisa.user",
+    "developer": "Google LLC",
+    "developer_email": "apps-help@google.com",
+    "icon": "gpay.png",
+    "brand": "GooglePay",
+    "label": "genuine"
+  },
+  {
+    "name": "BHIM - Making India Cashless",
+    "package": "in.org.npci.upiapp",
+    "developer": "National Payments Corporation of India (NPCI)",
+    "developer_email": "contact@npci.org.in",
+    "icon": "bhim.png",
+    "brand": "BHIM",
+    "label": "genuine"
+  },
+  {
+    "name": "Google Pay (TEZ)",
+    "package": "com.google.android.apps.walletnfcrel",
+    "developer": "Google LLC",
+    "developer_email": "apps-help@google.com",
+    "icon": "tez.png",
+    "brand": "GooglePay",
+    "label": "genuine"
+  },
+  {
+    "name": "Paytm Money",
+    "package": "com.paytmmoney",
+    "developer": "Paytm Money Ltd",
+    "developer_email": "help@paytmmoney.com",
+    "icon": "paytmmoney.png",
+    "brand": "Paytm",
+    "label": "genuine"
+  }
+]
