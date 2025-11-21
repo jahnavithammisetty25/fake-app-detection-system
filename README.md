@@ -41,22 +41,34 @@ Generates a forensic-style report summarizing all detection indicators.
 Fake_App_Det/
 │
 ├── data/
-│   ├── official/       # Icons + metadata of official apps
-│   ├── suspicious/     # Fake samples for testing
+│   ├── apps.json              # Fake + genuine apps dataset
+│   ├── official.json          # Official app details
+│   ├── icons/                 # Real + fake app icons
+│   │      bhim.png
+│   │      bhim_update.png
+│   │      gpay_2024.png
+│   │      paytm_rewards.png
+│   │      phonepe_update.png
+│   │      ... (many more)
 │
 ├── src/
-│   ├── name_matcher.py
-│   ├── icon_hasher.py
-│   ├── package_checker.py
-│   ├── risk_score.py
+│   ├── pipeline.py            # Main detection engine
+│   ├── features.py            # Feature extraction (similarity functions)
+│   ├── utils.py               # JSON reader, icon hashing, helpers
+│   ├── constants.py           # Weights, thresholds, file paths
+│   ├── integrator.py
+│   ├── test_accuracy.py
+│   └── _init_.py
 │
 ├── ui/
-│   ├── app.py          # Streamlit dashboard
+│   └── streamlit_app.py       # User interface
 │
 ├── tests/
+│   └── test_integration.py    # (Optional) test file
 │
-├── pipeline.py         # Main detection pipeline
-└── README.md
+├── logs/                      # Optional runtime logs
+│
+└── README.md                  # Project documentation
 
 🚀 How It Works
 Step 1: Select the Target App Brand
