@@ -13,6 +13,7 @@ This project aims to detect such fake apps using simple metadata analysis and li
 Built in 8 hours during a hackathon.
 
 🛠️ Features
+
 ✔️ 1. Name Similarity Detection
 
 Uses fuzzy string matching to compare suspicious app names with official app names.
